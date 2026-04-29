@@ -3,7 +3,7 @@
 
 const SUPABASE_CONFIG = {
     url: 'https://tycspbyxzzisqtwpmybd.supabase.co',
-    anonKey: 'sb_publishable_fZlvjXG8OmmR6yJFiKiQJA_HWPG-FX1'
+    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR5Y3NwYnl4enppc3F0d3BteWJkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzczNjkzOTIsImV4cCI6MjA5Mjk0NTM5Mn0.Sujr-jJqiRj0CBC1FBKL4SEGnpuc_ljoivmhQYviG_8'
 };
 
 // INGAT: Lo harus ganti anonKey dengan key asli dari Supabase!
